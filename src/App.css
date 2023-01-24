@@ -1,3 +1,23 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&family=Poppins:wght@200&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Epilogue', sans-serif;
+  color: #FFFFFF;
+}
+
+body {
+  background-image: url('./images/background.png');
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+header h1 {
+  font-size: 70px;
+  font-weight: 500;
+  line-height: 150px;
 }
