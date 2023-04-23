@@ -16,8 +16,8 @@ header {
 }
 
 header h1 {
-  font-size: 70px;
-  font-weight: 500;
+  font-size: 50px;
+  font-weight: 500px;
   line-height: 150px;
 }
 
@@ -26,7 +26,7 @@ header h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .title-planets {
@@ -37,7 +37,11 @@ header h1 {
   height: 98px;
   border: solid 1px #FFFFFF;
   border-radius: 17px;
-  margin-bottom: 30px;
+}
+
+.planet-img:hover {
+  -webkit-transform: scale(2.5);
+  transform: scale(1.3);
 }
 
 .container-planets h2{
