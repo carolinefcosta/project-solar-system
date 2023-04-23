@@ -6,10 +6,12 @@ O solar-system é um projeto desenvolvido no curso da Trybe. A aplicação apres
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
-- DOM
-- React
+- HTML;
+- CSS;
+- JavaScript;
+- DOM;
+- React;
 
-
+<p align="center">
+  <img width="600px" heigth="600px" src="src/images/solar-system.gif" />
+</p>
