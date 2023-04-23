@@ -12,6 +12,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - DOM
 - React
 
-![image](https://user-images.githubusercontent.com/115182342/220718732-82a71635-c38a-4f20-95ca-729be8e6a97d.png)
 
-![image](https://user-images.githubusercontent.com/115182342/220718850-504093cf-231a-4b58-b722-a3a53d989660.png)
